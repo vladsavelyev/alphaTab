@@ -25,3 +25,4 @@ export * as midi from "./midi";
 export * as model from "./model";
 export * as rendering from "./rendering";
 export * as synth from "./synth";
+export * as io from "./io";

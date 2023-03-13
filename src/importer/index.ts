@@ -1,3 +1,14 @@
+export { AlphaTexImporter } from '@src/importer/AlphaTexImporter';
+export { BinaryStylesheet } from '@src/importer/BinaryStylesheet';
+export { CapellaImporter } from '@src/importer/CapellaImporter';
+export { CapellaParser } from '@src/importer/CapellaParser';
+export { Gp3To5Importer } from '@src/importer/Gp3To5Importer';
+export { Gp7Importer } from '@src/importer/Gp7Importer';
+export { GpifParser } from '@src/importer/GpifParser';
+export { GpxFileSystem } from '@src/importer/GpxFileSystem';
+export { GpxImporter } from '@src/importer/GpxImporter';
+export { MusicXmlImporter } from '@src/importer/MusicXmlImporter';
+export { PartConfiguration } from '@src/importer/PartConfiguration';
 export { ScoreImporter } from '@src/importer/ScoreImporter';
 export { ScoreLoader } from '@src/importer/ScoreLoader';
 export { UnsupportedFormatError } from '@src/importer/UnsupportedFormatError';
